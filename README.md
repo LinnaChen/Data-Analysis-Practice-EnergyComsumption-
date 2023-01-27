@@ -1,4 +1,4 @@
-# Energy-Consumption-in-China-2000---2018-
+# Energy Consumption in China 2000-2018
 A student project of basic data analysis in 2019
 
 ## Statement
